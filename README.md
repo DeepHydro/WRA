@@ -1,6 +1,6 @@
 #  Water Resources Allocation Model
 ## Description
-Water Resources Allocation (WRA) model is an integrated surface water-groundwater model that can internally and explicitly simulate irrigation water supplies and hydrological impacts of water management policies with high spatial and temporal resolutions. 
+Water Resources Allocation (WRA) model is an integrated surface water-groundwater model that can internally and explicitly simulate irrigation water supplies and hydrological impacts of water management policies with high spatial and temporal resolutions. The WRA is based on GSFLOW model.
 
 ## Features
 
@@ -10,10 +10,10 @@ Water Resources Allocation (WRA) model is an integrated surface water-groundwate
 * Provides a flexible structure through which different water management policies can be simulated.
 
 ## Executing the model
-A 64-bit executable file is provided in the "bin" subdirectory and can be directly run on WINDOWS operation system.
+The WRA model can be run by using the Visual HEIFLOW (VHF) software. VHF provides an integrated environment for running HEIFLOW and GSFLOW models. The latest setup file of VHF can be downloaded via the link: https://github.com/DeepHydro/Visual-HEIFLOW/releases/tag/1.0.3. The instruction on installing the VHF could be found at https://github.com/DeepHydro/Visual-HEIFLOW
 
 ## Example
-A sample problem with WRA data sets is provided in the "data" subdirectory. The example model can be opened and run using the Visual Heiflow (VHF) software, which provides GUI for running HEIFLOW and GSFLOW models. The setup file of VHF can be downloaded via the link: https://github.com/DeepHydro/Visual-HEIFLOW/releases/tag/1.0.3
+A sample problem with WRA data sets is provided in the "data" subdirectory. The example model can be opened and run using the Visual Heiflow (VHF) software. 
 
 ## Acknowledgements
 This model is supported by the Strategic Priority Research Program of Chinese Academy of Sciences (XDA20100104) and the National Natural Science Foundation of China (No. 51961125203 and No. 41861124003). Additional support was provided by Guangdong Provincial Key Laboratory of Soil and Groundwater Pollution Control (No. 2017B030301012), and State Environmental Protection Key Laboratory of Integrated Surface Water-Groundwater Pollution Control.
