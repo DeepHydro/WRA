@@ -5,9 +5,9 @@ Water Resources Allocation (WRA) model is an integrated surface water-groundwate
 ## Features
 
 * Automatically simulte conjunctive use of groundwater and surface water for agriculture use
-* Requires limited information to perform historical and future simulations, and the information can be easily derived from geospatial data and statistical reports.
-* Allows to simulate canal processes including canal evaporation and seepage, which are usually ignored in many existing models.
-* Provides a flexible structure through which different water management policies can be simulated.
+* Require limited information to perform historical and future simulations, and the information can be easily derived from geospatial data and statistical reports.
+* Allow to simulate canal processes including canal evaporation and seepage, which are usually ignored in many existing models.
+* Provide a flexible structure through which different water management policies can be simulated.
 
 ## Executing the model
 The WRA model can be run by using the Visual HEIFLOW (VHF) software. VHF provides an integrated environment for running HEIFLOW and GSFLOW models. The latest setup file of VHF can be downloaded via the link: https://github.com/DeepHydro/Visual-HEIFLOW/releases/tag/1.0.3. The instruction on installing the VHF could be found at https://github.com/DeepHydro/Visual-HEIFLOW
