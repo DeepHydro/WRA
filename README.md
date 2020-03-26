@@ -10,7 +10,7 @@ Water Resources Allocation (WRA) model is an integrated surface water-groundwate
 * Provide a flexible structure through which different water management policies can be simulated.
 
 ## Executing the model
-The WRA model can be run by using the Visual HEIFLOW (VHF) software. VHF provides an integrated environment for running HEIFLOW and GSFLOW models. The latest setup file of VHF can be downloaded via the link: https://github.com/DeepHydro/Visual-HEIFLOW/releases/tag/1.0.3. The instruction on installing the VHF could be found at https://github.com/DeepHydro/Visual-HEIFLOW
+The WRA model can be run by using the Visual HEIFLOW (VHF) software. VHF provides an integrated environment for running HEIFLOW and GSFLOW models. The latest setup file of VHF can be downloaded via the link: https://github.com/DeepHydro/Visual-HEIFLOW/releases/tag/1.0.3. The instruction on installing the VHF could be found at https://github.com/DeepHydro/Visual-HEIFLOW. The bin subdirectory also provides a standard-alone executable file of the WRA.
 
 ## Example
 A sample problem with WRA data sets is provided in the "data" subdirectory. The example model can be opened and run using the Visual Heiflow (VHF) software. 
